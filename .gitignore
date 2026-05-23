@@ -1,0 +1,8 @@
+# Don't track these
+venv/
+.venv/
+mlruns/
+data/
+__pycache__/
+*.pyc
+.DS_Store

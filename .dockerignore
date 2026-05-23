@@ -1,0 +1,8 @@
+venv/
+.venv/
+.mlflow/
+mlruns/
+data/
+.git/
+__pycache__/
+*.pyc
